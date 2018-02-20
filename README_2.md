@@ -24,7 +24,5 @@ In order for this notebook to work:
 For some reason, the SMTP server worked just fine on campus, but didn't work on my home network. In the notebook, I included a screenshot showing some of the emails I successfully sent to myself using Monty
 
 ## PATH TO SOUND FILES
-Please provide the path to the `sound_files` folder on your computer
-
-(or whatever folder you have the test files for problem 2)
+Please provide the path to the `sound_files` folder on your computer (or whatever folder you have the test files for problem 2)
 1. set this path in the file `p1_userinfo.py`
