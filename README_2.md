@@ -1,6 +1,6 @@
-#hw_3 README
+# hw_3 README
 
-##HOUNDIFY
+## HOUNDIFY
 For speech-to-text, I'm using the Houndify Python SDK, found (here)[https://www.houndify.com/sdks#python]
 
 In order for this notebook to work:
@@ -9,7 +9,7 @@ In order for this notebook to work:
 3. set up a Houndify client with speech-to-text enabled
 4. enter the client ID and key in the file p1_userinfo.py (user ID can be anything)
 
-##EMAILS
+## EMAILS
 The restricted Gmail SMTP server can only send mail to Gmail or G Suite users
 
 	see (Google support page)[https://support.google.com/a/answer/176600?hl=en]
@@ -23,10 +23,10 @@ In order for this notebook to work:
 2. set a gmail address as EMAIL_SENDROM
 3. set either a gmail or berkeley address as EMAIL_SENDTO
 
-###NB:
+### NB:
 For some reason, the SMTP server worked just fine on campus, but didn't work on my home network. In the notebook, I included a screenshot showing some of the emails I successfully sent to myself using Monty
 
-##PATH TO SOUND FILES
+## PATH TO SOUND FILES
 Please provide the path to the sound_files folder on your computer
 
 (or whatever folder you have the test files for problem 2)
